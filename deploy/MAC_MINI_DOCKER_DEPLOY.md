@@ -68,6 +68,10 @@ docker compose up -d --build
 
 ## 4. 갱신과 확인
 
+### 빌드 중 vocabulary checksum mismatch
+
+이전 버전은 Windows의 CRLF 줄바꿈으로 계산한 해시를 저장해 Mac/Linux의 LF 체크아웃에서 검증이 실패할 수 있었습니다. 수정 버전은 13개 어휘 팩과 생성기의 출력을 LF로 고정합니다. 수정된 `data/packs/`, `data/catalog-manifest.json`, `.gitattributes`, `scripts/build-vocabulary.py`를 함께 반영한 후 `docker compose build`를 다시 실행하세요. `.env`를 다시 만들거나 Docker 볼륨을 삭제할 필요는 없습니다. 계속 실패하면 데이터 파일의 로컬 변경 또는 전송 누락을 확인하세요. 체크섬 검증을 끄거나 변경된 파일에 맞춰 해시만 재계산하지 마세요.
+
 Certbot은 12시간마다 갱신을 검사하고, Nginx는 60초마다 인증서 변경을 감지해 `nginx -t` 통과 후 reload합니다. Docker 소켓을 컨테이너에 연결하지 않습니다. ACME 경로는 HTTPS 전환 후에도 HTTP에서 유지하므로 갱신을 위해 TCP 80을 계속 열어두세요.
 
 ```sh

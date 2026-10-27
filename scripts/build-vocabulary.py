@@ -2,7 +2,7 @@ import gzip,struct,re,html,json,hashlib,collections
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def save(path,obj):
- (ROOT/path).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ (ROOT/path).write_bytes((json.dumps(obj,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
 p=ROOT/'data/sources/original/en-ko'
 idx=(p/'en-ko.idx').read_bytes(); d=gzip.decompress((p/'en-ko.dict.dz').read_bytes())
 freq={line.split()[0]:n for n,line in enumerate((ROOT/'data/sources/en_50k.txt').read_text(encoding='utf-8').splitlines(),1)}
