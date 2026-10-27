@@ -1,0 +1,10 @@
+{
+  "count": 6500,
+  "unique": 6500,
+  "korean": 6500,
+  "packs": 13,
+  "firstLoadMs": 926,
+  "offlineReseedCount": 6500,
+  "sampleCards": 30,
+  "subpath": "/dist/"
+}

@@ -1,0 +1,9 @@
+﻿.tools/
+node_modules/
+dist/
+test-results/
+__pycache__/
+verification/backup.json
+.env
+.env.*
+!.env.example

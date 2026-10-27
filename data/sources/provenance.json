@@ -1,0 +1,12 @@
+{
+  "dictionary": {
+    "release": "v1.2.0",
+    "url": "https://github.com/DanielGregorini/koreader-dicts/releases/download/v1.2.0/en-ko.zip",
+    "sha256": "219eacf3f57e93da993a9ba438d3c3eaf3fa3b94de745847fe74826cb776ccf1"
+  },
+  "frequency": {
+    "url": "https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/en/en_50k.txt",
+    "sha256": "5351ff405b1126ef555791dd4d9798a48e3e9a501a9fc481a9da957752cfb458"
+  },
+  "accessed": "2026-10-26"
+}

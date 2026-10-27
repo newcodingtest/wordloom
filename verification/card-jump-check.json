@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "positions": [
+    1,
+    2000,
+    3250,
+    4200,
+    6500
+  ],
+  "invalidInputs": [
+    "0",
+    "6501",
+    "1.5",
+    ""
+  ],
+  "enter": true,
+  "frontReset": true,
+  "returnAfterCompletion": true,
+  "mobileWidth": 320,
+  "consoleErrors": []
+}

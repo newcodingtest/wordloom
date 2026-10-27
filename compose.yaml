@@ -1,0 +1,84 @@
+name: wordloom
+
+services:
+  app:
+    image: wordloom-app:local
+    build:
+      context: .
+      target: app
+    restart: unless-stopped
+    environment:
+      DOMAIN: "${DOMAIN:-${DUCKDNS_SUBDOMAIN:?Set DUCKDNS_SUBDOMAIN in .env}.duckdns.org}"
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - letsencrypt:/etc/letsencrypt:ro
+      - acme_webroot:/var/www/certbot:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+      - /var/cache/nginx
+      - /var/run
+      - /etc/nginx/conf.d
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "-", "http://127.0.0.1:8080/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  duckdns:
+    image: wordloom-duckdns:local
+    build:
+      context: .
+      target: duckdns
+    restart: unless-stopped
+    environment:
+      DUCKDNS_SUBDOMAIN: "${DUCKDNS_SUBDOMAIN:?Set DUCKDNS_SUBDOMAIN in .env}"
+      DUCKDNS_TOKEN: "${DUCKDNS_TOKEN:?Set DUCKDNS_TOKEN in .env}"
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    healthcheck:
+      test: ["CMD", "python", "/app/duckdns-update.py", "--check-health"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: "1m"
+        max-file: "3"
+
+  certbot:
+    image: wordloom-certbot:local
+    build:
+      context: .
+      target: certbot
+    restart: unless-stopped
+    environment:
+      DOMAIN: "${DOMAIN:-${DUCKDNS_SUBDOMAIN:?Set DUCKDNS_SUBDOMAIN in .env}.duckdns.org}"
+      LETSENCRYPT_EMAIL: "${LETSENCRYPT_EMAIL:-}"
+    volumes:
+      - letsencrypt:/etc/letsencrypt
+      - acme_webroot:/var/www/certbot
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "3"
+
+volumes:
+  letsencrypt:
+  acme_webroot:
