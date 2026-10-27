@@ -53,8 +53,9 @@ Android Chrome은 메뉴 → 앱 설치, iOS Safari는 공유 → 홈 화면에 
 
 기초어 제외 정책은 `data/sources/basic-exclusions.json`에서 관리합니다. 제외된 내장 단어는 업데이트 시 학습 목록에서 제거하되, 기존 진도·시험 이력은 보관합니다. 이전 백업을 복원해도 현행 내장 카탈로그를 유지합니다.
 
-## Mac mini / DuckDNS Docker 배포
+## Mac mini / Caddy
 
-[Mac mini 배포 가이드](deploy/MAC_MINI_DOCKER_DEPLOY.md)를 따라 `.env.example`을 `.env`로 복사하고 DuckDNS 이름·토큰 및 인증서용 이메일을 설정하세요. Nginx 정적 앱, DuckDNS IP 갱신기, Certbot 인증서 갱신기로 구성됩니다. 공유기 TCP 80/443 전달과 가이드의 최초 인증서 발급 단계가 필요합니다. 초기 발급 후에는 `docker compose up -d --build`로 세 서비스를 시작합니다.
+See [shared Caddy setup](deploy/SHARED_CADDY.md). `compose.yaml` runs only the HTTP app on the existing `mac-mini-proxy` network. Run `docker compose up -d --build`. Existing Caddy handles HTTPS; existing DuckDNS must update the app domain. Set `PROXY_NETWORK` only if the network name differs.
+
 
 애드센스 적용 가능성·현재 부족 사항·광고 위치·수익 가정은 [수익화 검토](docs/09_MONETIZATION_REVIEW.md)에 정리했습니다. 광고 코드는 아직 삽입하지 않았습니다.

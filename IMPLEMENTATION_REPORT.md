@@ -67,20 +67,8 @@ IndexedDB `wordloom-toefl-v1` v2. v1 words/progress/meta 보존, quizAttempts/st
 
 실제 Chrome에서 1/2,000/3,250/4,200/6,500번 이동, Enter, 잘못된 값 4종, 카드 앞면 복귀, 완료 후 복귀, 320px 화면을 확인했다. 결과: verification/card-jump-check.json, 화면: verification/card-jump-mobile.png.
 
-## 후속 변경 — Mac mini / DuckDNS Docker 배포
+## Shared Caddy deployment
 
-Dockerfile의 Python 검증 단계에서 실제 배포 데이터 검증 및 dist 생성을 실행하고, Caddy 2.11.7 Alpine 이미지에 배포 파일만 포함한다. compose.yaml은 앱(80/443 TCP, 443 UDP), DuckDNS IPv4 갱신기(5분 주기), 인증서 영속 볼륨, healthcheck와 로그 제한을 정의한다. .env는 빌드 컨텍스트와 Git에서 제외된다. DuckDNS 토큰은 앱에 전달하지 않으며 갱신기의 오류 로그에도 요청 URL을 출력하지 않는다. Apple Silicon을 위한 플랫폼 강제 설정은 없다.
-
-Compose config 및 Caddy validate 통과. 동일 Caddy 설정의 로컬 HTTP 서버로 index/서비스 워커/13개 팩(6,500개), no-cache/nosniff 헤더, 없는 JS/JSON/.env의 404 응답을 확인했다. DuckDNS는 모의 응답으로 정상 요청·KO 거부·health 만료·설정 오류·토큰 비출력을 확인했다. 결과는 verification/docker-deployment-checks.json에 있다.
-
-Docker 엔진 미실행으로 Linux 이미지 빌드·Compose 컨테이너 실행은 미검증이며, 사용자 도메인과 Mac mini가 없어 공개 TLS 인증서 발급 및 실제 Mac 배포도 미검증이다. 실행 순서·포트포워딩·업데이트 방법은 deploy/MAC_MINI_DOCKER_DEPLOY.md 참조.
-
-## 후속 변경 — Nginx 배포 및 애드센스 사전 검토
-
-사용자 선택에 맞춰 현행 배포를 Caddy에서 Nginx 1.30.6 + Certbot v5.8.0으로 교체했다. Dockerfile/compose.yaml/.env.example/.dockerignore 및 배포 가이드를 갱신하고 deploy/Caddyfile을 제거했다. 기존 Caddy 관련 기록과 검증 JSON은 이전 구성의 이력이다. 현행 검증 증빙은 verification/nginx-deployment-checks.json이다.
-
-최초에는 ACME HTTP 인증 경로와 준비 중 503 응답을 제공한다. `docker compose run --rm certbot --issue`로 발급한 뒤 Nginx가 최대 약 60초 내 HTTPS로 전환한다. Certbot은 12시간마다 갱신 검사, Nginx는 인증서 변경 감지 후 문법 검사·reload를 수행한다. 인증서 볼륨과 ACME webroot 공유만 사용하며 Docker 소켓을 마운트하지 않는다. 공유기 TCP 80/443 전달이 필요하다.
-
-검증: Compose 기본 DuckDNS/별도 DOMAIN 구문 통과. Nginx Windows 바이너리의 HTTP/TLS 설정 검사 및 로컬 테스트 인증서로 503→HTTPS 전환, ACME 경로, 308 redirect, reload, 6,500개 실데이터 제공, manifest MIME, 없는 파일 404 및 숨김 경로 403을 확인했다. POSIX 셸 문법과 모의 Certbot 발급 인자·실제 이메일 설정 요구·DuckDNS 응답/health 검증 4개 통과. npm test의 Node 7개 및 Python 5개 테스트 그룹(어휘 부정 사례 9종 포함) 통과. Linux Docker 빌드/실행, Mac mini 실제 배포 및 공개 인증서 발급·갱신은 미검증이다.
+Removed standalone DNS/TLS services, configuration, tests and obsolete deployment verification artifacts. Dockerfile validates 6,500 words and builds an internal HTTP Nginx origin. compose.yaml connects only the app to mac-mini-proxy as wordloom-origin, with no published host ports. See deploy/SHARED_CADDY.md. Actual Mac container execution and public TLS remain unverified.
 
 애드센스 검토 문서는 docs/09_MONETIZATION_REVIEW.md에 작성했다. Google 자격/사이트 등록 범위·Public Suffix List·콘텐츠/배치/개인정보/CMP/ads.txt 정책과 현재 앱 코드를 대조했다. DuckDNS를 이유로 신청 불가라고 단정할 수 없지만 등록 및 승인은 미확인이다. 공개 학습 콘텐츠·운영 정보·개인정보 안내 보강, 카드 조작 영역 광고 제외, 화면별 광고 수명 관리가 우선이다. 실제 트래픽이 없으므로 수익 예측 대신 페이지 RPM 가정별 산식만 제공했다. 광고 코드 삽입·소유권 확인 태그·사이트 신청·광고 송출은 수행하지 않았다.

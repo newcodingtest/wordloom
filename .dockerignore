@@ -9,9 +9,6 @@
 !deploy/
 !deploy/nginx/
 !deploy/nginx/**
-!deploy/nginx-start.sh
-!deploy/certbot-renew.sh
-!deploy/duckdns-update.py
 !index.html
 !styles.css
 !app.js
