@@ -23,6 +23,14 @@ class VocabularyNegativeTests(unittest.TestCase):
    elif kind=='missing-field':del rows[0]['category']
    elif kind=='source':rows[0]['source']='unknown'
    elif kind=='basic':rows[0].update(id='w:you',word='you',meaning='너')
+   elif kind=='meaning-regression':
+    next(w for w in rows if w['word']=='academic')['meaning']='학생; 아카데미 회원; 학위복'
+   elif kind=='editor-note':
+    next(w for w in rows if w['word']=='ability')['meaning']='능력; or simply omit it.'
+   elif kind=='parenthesis':
+    next(w for w in rows if w['word']=='ability')['meaning']='능력)'
+   elif kind=='duplicate-meaning':
+    next(w for w in rows if w['word']=='ability')['meaning']='능력; 능력'
    elif kind=='missing-file':p.unlink()
    elif kind=='checksum':
     p.write_bytes(p.read_bytes()+b' ')
@@ -31,7 +39,11 @@ class VocabularyNegativeTests(unittest.TestCase):
    (root/'data/catalog-manifest.json').write_text(json.dumps(m),encoding='utf-8')
    r=subprocess.run([sys.executable,str(ROOT/'scripts/validate-vocabulary.py'),str(root)],capture_output=True)
    self.assertNotEqual(r.returncode,0,kind)
+   if kind=='meaning-regression':self.assertIn(b'editorial correction regression',r.stdout)
+   if kind=='editor-note':self.assertIn(b'editorial artifact',r.stdout)
+   if kind=='parenthesis':self.assertIn(b'unbalanced meaning parentheses',r.stdout)
+   if kind=='duplicate-meaning':self.assertIn(b'duplicate synonyms',r.stdout)
  def test_release_blockers(self):
-  for kind in ['5999','duplicate','empty','english','placeholder','missing-field','source','missing-file','basic','checksum']:
+  for kind in ['5999','duplicate','empty','english','placeholder','missing-field','source','missing-file','basic','checksum','meaning-regression','editor-note','parenthesis','duplicate-meaning']:
    with self.subTest(kind=kind):self.check_failure(kind)
 if __name__=='__main__':unittest.main()

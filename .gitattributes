@@ -4,5 +4,4 @@ Dockerfile text eol=lf
 *.template text eol=lf
 data/packs/*.json text eol=lf
 data/catalog-manifest.json text eol=lf
-data/packs/*.json text eol=lf
-data/catalog-manifest.json text eol=lf
+data/sources/meaning-review.tsv text eol=lf

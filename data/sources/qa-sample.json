@@ -2,7 +2,7 @@
   {
     "id": "w:able",
     "word": "able",
-    "meaning": "할 수 있는; 유자격의",
+    "meaning": "~할 수 있는; 유능한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -14,7 +14,7 @@
   {
     "id": "w:capable",
     "word": "capable",
-    "meaning": "유능하다",
+    "meaning": "유능한; ~할 수 있는",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -26,7 +26,7 @@
   {
     "id": "w:difficult",
     "word": "difficult",
-    "meaning": "어렵다, 힘들다",
+    "meaning": "어려운; 힘든",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -38,7 +38,7 @@
   {
     "id": "w:golden",
     "word": "golden",
-    "meaning": "금의, 황금의; 금색의",
+    "meaning": "금의; 황금의; 금색의",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -50,7 +50,7 @@
   {
     "id": "w:interesting",
     "word": "interesting",
-    "meaning": "흥미롭다, 관심있는, 재미있다",
+    "meaning": "흥미로운; 재미있는",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -62,7 +62,7 @@
   {
     "id": "w:nowhere",
     "word": "nowhere",
-    "meaning": "아무데도",
+    "meaning": "어디에도 ~않다",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -86,7 +86,7 @@
   {
     "id": "w:soft",
     "word": "soft",
-    "meaning": "부드럽다; 부드럽다, 유순하다",
+    "meaning": "부드러운; 푹신한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -98,7 +98,7 @@
   {
     "id": "w:account",
     "word": "account",
-    "meaning": "계좌, 어카운트; 어카운트",
+    "meaning": "계좌; 설명; 기록",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -122,7 +122,7 @@
   {
     "id": "w:drunk",
     "word": "drunk",
-    "meaning": "취객; 술고래, 주정꾼, 주정뱅이, 취객; 취하다",
+    "meaning": "술에 취한; 술 취한 사람",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -134,7 +134,7 @@
   {
     "id": "w:haven",
     "word": "haven",
-    "meaning": "항구, 해항; 피난처",
+    "meaning": "항구; 해항; 피난처",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -146,7 +146,7 @@
   {
     "id": "w:male",
     "word": "male",
-    "meaning": "수컷; 남성, 웅",
+    "meaning": "남성의; 수컷의; 남성",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -158,7 +158,7 @@
   {
     "id": "w:permission",
     "word": "permission",
-    "meaning": "허가, 인가",
+    "meaning": "허가; 인가",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -194,7 +194,7 @@
   {
     "id": "w:accept",
     "word": "accept",
-    "meaning": "받아들이다; 찬동하다, 찬성하다",
+    "meaning": "받아들이다; 찬동하다; 찬성하다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -206,7 +206,7 @@
   {
     "id": "w:beg",
     "word": "beg",
-    "meaning": "부탁하다, 빌다, 탄원하다, 구걸하다, 간청하다, 애원하다",
+    "meaning": "부탁하다; 빌다; 탄원하다; 구걸하다; 간청하다; 애원하다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -230,7 +230,7 @@
   {
     "id": "w:expect",
     "word": "expect",
-    "meaning": "기대하다",
+    "meaning": "예상하다; 기대하다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -254,7 +254,7 @@
   {
     "id": "w:pick",
     "word": "pick",
-    "meaning": "따다; 정하다; 뜯다",
+    "meaning": "고르다; 따다; 집어 들다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -278,7 +278,7 @@
   {
     "id": "w:spend",
     "word": "spend",
-    "meaning": "쓰다, 소비하다, 들이다; 보내다, 들이다",
+    "meaning": "쓰다; 소비하다; 들이다; 보내다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -290,7 +290,7 @@
   {
     "id": "w:abandoned",
     "word": "abandoned",
-    "meaning": "버려진, 고립된",
+    "meaning": "버려진; 방치된",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -302,7 +302,7 @@
   {
     "id": "w:bored",
     "word": "bored",
-    "meaning": "심심하다",
+    "meaning": "지루해하는; 따분한",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -314,7 +314,7 @@
   {
     "id": "w:equal",
     "word": "equal",
-    "meaning": "같다, 동일하다, 똑같다",
+    "meaning": "같은; 동등한; 맞먹다",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -326,7 +326,7 @@
   {
     "id": "w:harmless",
     "word": "harmless",
-    "meaning": "무해의",
+    "meaning": "해롭지 않은; 무해한",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -350,7 +350,7 @@
   {
     "id": "w:polite",
     "word": "polite",
-    "meaning": "공손하다",
+    "meaning": "공손한; 예의 바른",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -362,7 +362,7 @@
   {
     "id": "w:shy",
     "word": "shy",
-    "meaning": "수줍다; 수줍다, 낯가리다, 부끄럽다",
+    "meaning": "수줍어하는; 낯을 가리는",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -374,7 +374,7 @@
   {
     "id": "w:thick",
     "word": "thick",
-    "meaning": "두껍다; 짙다, 농후하다",
+    "meaning": "두꺼운; 짙은; 빽빽한",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -398,7 +398,7 @@
   {
     "id": "w:bureau",
     "word": "bureau",
-    "meaning": "사무실, 사무소, 오피스",
+    "meaning": "국; 사무국; 서랍장",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -422,7 +422,7 @@
   {
     "id": "w:fame",
     "word": "fame",
-    "meaning": "유명, 명성",
+    "meaning": "유명; 명성",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -470,7 +470,7 @@
   {
     "id": "w:string",
     "word": "string",
-    "meaning": "현",
+    "meaning": "끈; 줄; 현",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -482,7 +482,7 @@
   {
     "id": "w:accompany",
     "word": "accompany",
-    "meaning": "동행하다, 동반하다",
+    "meaning": "동행하다; 동반하다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -494,7 +494,7 @@
   {
     "id": "w:chew",
     "word": "chew",
-    "meaning": "깨물다, 씹다",
+    "meaning": "깨물다; 씹다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -506,7 +506,7 @@
   {
     "id": "w:deny",
     "word": "deny",
-    "meaning": "부정하다, 부인하다",
+    "meaning": "부정하다; 부인하다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -578,7 +578,7 @@
   {
     "id": "w:absent",
     "word": "absent",
-    "meaning": "없는, 결석하는",
+    "meaning": "없는; 결석하는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -602,7 +602,7 @@
   {
     "id": "w:eligible",
     "word": "eligible",
-    "meaning": "적격의, 적임의",
+    "meaning": "적격의; 적임의",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -626,7 +626,7 @@
   {
     "id": "w:lone",
     "word": "lone",
-    "meaning": "고독의",
+    "meaning": "혼자의; 홀로 있는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -638,7 +638,7 @@
   {
     "id": "w:overseas",
     "word": "overseas",
-    "meaning": "해외, 국외; 해외",
+    "meaning": "해외; 국외",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -662,7 +662,7 @@
   {
     "id": "w:understandable",
     "word": "understandable",
-    "meaning": "이해할 수 있다",
+    "meaning": "이해할 만한; 이해할 수 있는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -686,7 +686,7 @@
   {
     "id": "w:camel",
     "word": "camel",
-    "meaning": "낙타, 락타",
+    "meaning": "낙타",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -722,7 +722,7 @@
   {
     "id": "w:kip",
     "word": "kip",
-    "meaning": "킵",
+    "meaning": "킵(라오스 화폐 단위); 잠(영국 구어)",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -746,7 +746,7 @@
   {
     "id": "w:resolution",
     "word": "resolution",
-    "meaning": "화질, 해상도; 결의",
+    "meaning": "결의; 해결; 해상도",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -770,7 +770,7 @@
   {
     "id": "w:accuse",
     "word": "accuse",
-    "meaning": "고소하다",
+    "meaning": "고발하다; 비난하다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -794,7 +794,7 @@
   {
     "id": "w:descend",
     "word": "descend",
-    "meaning": "내리다, 내려오다, 내려가다",
+    "meaning": "내리다; 내려오다; 내려가다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -842,7 +842,7 @@
   {
     "id": "w:resolve",
     "word": "resolve",
-    "meaning": "해결하다; 다짐하다, 결심하다, 결정하다",
+    "meaning": "해결하다; 다짐하다; 결심하다; 결정하다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -854,7 +854,7 @@
   {
     "id": "w:substitute",
     "word": "substitute",
-    "meaning": "대용하다",
+    "meaning": "대신하다; 대체물",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -866,7 +866,7 @@
   {
     "id": "w:aesthetic",
     "word": "aesthetic",
-    "meaning": "미적",
+    "meaning": "미적인; 미학의",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -890,7 +890,7 @@
   {
     "id": "w:diverse",
     "word": "diverse",
-    "meaning": "다양하다",
+    "meaning": "다양한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -950,7 +950,7 @@
   {
     "id": "w:tasteless",
     "word": "tasteless",
-    "meaning": "맛없다",
+    "meaning": "맛없는; 무미한; 품위 없는",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -974,7 +974,7 @@
   {
     "id": "w:burp",
     "word": "burp",
-    "meaning": "트림, 애기; 트림하다",
+    "meaning": "트림; 트림하다",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -986,7 +986,7 @@
   {
     "id": "w:detection",
     "word": "detection",
-    "meaning": "탐지, 수색",
+    "meaning": "발견; 탐지",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1010,7 +1010,7 @@
   {
     "id": "w:loner",
     "word": "loner",
-    "meaning": "외돌토리, 외톨박이, 외톨이, 아싸",
+    "meaning": "혼자 지내는 사람",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1022,7 +1022,7 @@
   {
     "id": "w:palate",
     "word": "palate",
-    "meaning": "입천장, 구개",
+    "meaning": "입천장; 구개",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1046,7 +1046,7 @@
   {
     "id": "w:swarm",
     "word": "swarm",
-    "meaning": "떼, 무리",
+    "meaning": "떼; 무리",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1058,7 +1058,7 @@
   {
     "id": "w:abduct",
     "word": "abduct",
-    "meaning": "유괴하다, 납치하다",
+    "meaning": "유괴하다; 납치하다",
     "level": 4,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",

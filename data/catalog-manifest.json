@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.10.26.2",
+  "catalogVersion": "2026.10.27.1",
   "excludedLemmas": [
     "a",
     "about",
@@ -606,67 +606,67 @@
     {
       "path": "data/packs/core-01.json",
       "expectedCount": 500,
-      "sha256": "6b4ab40929fd949bcf2efa3e64ca3d7596a03f361b2617ff68c0efcc11e73507"
+      "sha256": "866d866e09ac006431aa29d3d22c77bd9016ccf3f2972b01e9c775c8dc323fdd"
     },
     {
       "path": "data/packs/core-02.json",
       "expectedCount": 500,
-      "sha256": "4e3a6d9f2726fa938f52c3878a69fc97f91c0ba6ade8bfad95496cf655b2283c"
+      "sha256": "f6b84f8fbd5a0fbd485e4319357fc12e4feb9b01e70780989e5f17bca59b2999"
     },
     {
       "path": "data/packs/core-03.json",
       "expectedCount": 500,
-      "sha256": "354a30d57251344314b9a21aba8f74f5214ec639bf598a9137dbf8f34c5aa5d5"
+      "sha256": "4c42642848cf1f2c6b8ec81d9936c6e1259ea16e07ae7842f546a5b8d49d8f24"
     },
     {
       "path": "data/packs/core-04.json",
       "expectedCount": 500,
-      "sha256": "e8e799c911cab9831510c78ec96dbaaf63ca802bbbd87846ab45de7998289af7"
+      "sha256": "e52ae8d846cb879d9b38d7ec263fdb964091b994d465efc667629d1d91877ce2"
     },
     {
       "path": "data/packs/core-05.json",
       "expectedCount": 500,
-      "sha256": "b70a1c0bb1bc4ae91bfb886f1f835b989035bfd7e9aa91f84bbb286d9069332b"
+      "sha256": "4337a503d19a62e7cef57baec819a9f565884b8f7bf1ca805cb3f0d430d8ed87"
     },
     {
       "path": "data/packs/core-06.json",
       "expectedCount": 500,
-      "sha256": "1f1bf4ad596b291e78212d2a2ad59d5526b7f667f5e03a6f25758879dcaba2a7"
+      "sha256": "cdde81139d235a575a61cd2e2177e1ad7150575ef6fa369ed30f64177745ee90"
     },
     {
       "path": "data/packs/core-07.json",
       "expectedCount": 500,
-      "sha256": "18df97cabbc8d57aec3e9b1d52a1fb189c35f9045cfcfb1b637a62a9ca95e667"
+      "sha256": "713101c4c7ecbea846562fe4aeaa96d768e554169f71841b88160460b0f5a7d8"
     },
     {
       "path": "data/packs/core-08.json",
       "expectedCount": 500,
-      "sha256": "c9f8f85b2d0cf0584feadaec8fefdd9f4e3780835effd7bb355f9cf90c014855"
+      "sha256": "5415b1da1b39a81ad6fa222c12210576f25aa4ce5fc2c54812fbf323b5ac3c0e"
     },
     {
       "path": "data/packs/core-09.json",
       "expectedCount": 500,
-      "sha256": "b3633aef3c72b04ad0bbd376a43407ada52f99385fb001154441df0ca6955e19"
+      "sha256": "556a173050bf6b71557fd79931bcbf450e58be5fafaade0ae459c5271a35faf9"
     },
     {
       "path": "data/packs/core-10.json",
       "expectedCount": 500,
-      "sha256": "111e82181f0ed651c54c4568a1ef746c60ceb2bf7f2b9728ae955b222309f498"
+      "sha256": "427b69337179d0f5d67338c47692dd0d065c0e622009d9426cdabe4d6fb6fdeb"
     },
     {
       "path": "data/packs/core-11.json",
       "expectedCount": 500,
-      "sha256": "f3aac0bda135956a87327dbd010799addd26c7da32df4a8430c53de5cce29402"
+      "sha256": "22979af36b84e5893cdc28c5e5d4032681ea432b3a48ea879969d0db98035ade"
     },
     {
       "path": "data/packs/core-12.json",
       "expectedCount": 500,
-      "sha256": "a6ec61208488bfb85d3f8e71315fc75d3872af8f72f1186d4ce3d165b6d6c3e8"
+      "sha256": "ebd1b1c203c9165302f946ed777f81ede7a5b1ffb0d85575a26cc40e3ee591b2"
     },
     {
       "path": "data/packs/core-13.json",
       "expectedCount": 500,
-      "sha256": "82d92e51b0c0b105add5d1e1a818320b191e5a1c8410e3e93405d53c31efb464"
+      "sha256": "47f6c25a47e9c8185d9618c2a0d78c053e11040e4a6b6e022da2a04eb92428f0"
     }
   ]
 }

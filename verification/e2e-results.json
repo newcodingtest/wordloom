@@ -116,12 +116,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 6316,
+                  "duration": 6020,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-26T08:13:31.105Z",
+                  "startTime": "2026-10-27T08:42:57.826Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -150,12 +150,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 4199,
+                  "duration": 4727,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-26T08:13:38.032Z",
+                  "startTime": "2026-10-27T08:43:04.430Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -184,12 +184,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 420,
+                  "duration": 388,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-26T08:13:42.248Z",
+                  "startTime": "2026-10-27T08:43:09.182Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -199,7 +199,7 @@
           ],
           "id": "4fb2437618ff1ca10639-4a751b550f1bb79f665c",
           "file": "app.spec.mjs",
-          "line": 315,
+          "line": 317,
           "column": 1
         },
         {
@@ -218,12 +218,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 11002,
+                  "duration": 10342,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-26T08:13:42.684Z",
+                  "startTime": "2026-10-27T08:43:09.583Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -233,7 +233,49 @@
           ],
           "id": "4fb2437618ff1ca10639-fb62a2e8cdd7e4a107db",
           "file": "app.spec.mjs",
-          "line": 329,
+          "line": 331,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "meaning-update.spec.mjs",
+      "file": "meaning-update.spec.mjs",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "meaning update preserves learning records and reaches all words offline",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3985,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-27T08:43:19.964Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bff44a9b874eb58277d4-4f8a95b29db5aa790ed7",
+          "file": "meaning-update.spec.mjs",
+          "line": 7,
           "column": 1
         }
       ]
@@ -241,9 +283,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-10-26T08:13:30.152Z",
-    "duration": 23725.553,
-    "expected": 4,
+    "startTime": "2026-10-27T08:42:56.971Z",
+    "duration": 27177.731,
+    "expected": 5,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

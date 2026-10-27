@@ -265,7 +265,7 @@ test("v1 upgrade preserves progress, atomic restore and update preserves bookmar
     format: "wordloom-backup",
     version: 1,
     words: [
-      ...words,
+      ...words.map((w) => w.word === "bottom" ? { ...w, meaning: "말" } : w),
       {
         id: "w:you",
         word: "you",
@@ -307,6 +307,8 @@ test("v1 upgrade preserves progress, atomic restore and update preserves bookmar
     .click();
   await expect(page.locator("#notice")).toHaveText("복원했습니다.");
   expect((await dbread(page, "words")).length).toBe(6500);
+  expect((await dbread(page, "words")).find((w) => w.word === "bottom").meaning)
+    .toBe(words.find((w) => w.word === "bottom").meaning);
   expect((await dbread(page, "quizAttempts")).length).toBe(1);
   expect(
     (await dbread(page, "progress")).filter((p) => p.firstReviewedAt).length,

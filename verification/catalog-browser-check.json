@@ -3,7 +3,7 @@
   "unique": 6500,
   "korean": 6500,
   "packs": 13,
-  "firstLoadMs": 926,
+  "firstLoadMs": 436,
   "offlineReseedCount": 6500,
   "sampleCards": 30,
   "subpath": "/dist/"

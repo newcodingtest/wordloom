@@ -47,6 +47,10 @@ Android Chrome은 메뉴 → 앱 설치, iOS Safari는 공유 → 홈 화면에 
 
 ## 데이터 갱신
 
+현재 카탈로그 `2026.10.27.1`은 6,500개 영어·한국어 쌍을 검토해 1,533개 뜻·표현을 교정했습니다. [교정표](data/sources/meaning-review.tsv)와 [검수 범위](data/sources/QA.md)를 참고하세요. 독립 전문가의 전수 감수는 미실시입니다. `python scripts/build-vocabulary.py`로 다시 생성해도 교정표가 적용되며, 검증기는 알려진 오역으로 되돌아간 팩을 거부합니다.
+
+서버 갱신 후 온라인으로 앱에 접속하고 Wordloom 탭·설치 앱을 모두 닫았다가 다시 열면 새 오프라인 캐시와 뜻이 적용됩니다. 브라우저의 학습 기록을 삭제할 필요는 없습니다.
+
 보존된 원본으로 `python scripts/build-vocabulary.py` 실행 → 실제 데이터/층화 표본 검수 → `catalogVersion` 및 `sw.js` 캐시 이름 증가 → 검증/테스트 → 배포. 영어 표제어의 `w:...` ID를 유지하세요. 런타임 갱신은 words를 갱신하고 제외된 내장 단어만 제거하며 progress/quizAttempts/studyEvents를 지우지 않습니다. 새 서비스 워커는 열린 앱 탭을 모두 닫은 뒤 적용됩니다.
 
 자동 검사는 번역의 의미적 정확성 전수를 증명하지 않습니다. 실제 어휘 수량과 의미 검수 범위는 구분하여 보고합니다.

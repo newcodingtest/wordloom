@@ -1,5 +1,6 @@
 import gzip,struct,re,html,json,hashlib,collections
 from pathlib import Path
+from vocabulary_quality import load_review, normalize_meaning
 ROOT=Path(__file__).resolve().parents[1]
 def save(path,obj):
  (ROOT/path).write_bytes((json.dumps(obj,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
@@ -37,9 +38,13 @@ basic_removed=[w['word'] for w in filtered if w['word'] in basic_exclusions]
 rows=[w for w in filtered if w['word'] not in basic_exclusions]
 excluded['basic vocabulary policy']=len(basic_removed)
 corrections=json.loads((ROOT/'data/sources/corrections.json').read_text(encoding='utf-8-sig'))
+review=load_review(ROOT)
+corrections.update(review)
 for w in rows:
  if w['word'] in corrections: w['meaning']=corrections[w['word']]
+ w['meaning']=normalize_meaning(w['meaning'])
 rows.sort(key=lambda w:(w['frequencyRank'],w['word'])); rows=rows[:6500]
+assert set(review)<=set(w['word'] for w in rows), 'Editorial correction targets missing from catalog'
 for n,w in enumerate(rows):
  w['level']=1 if n<1000 else 2 if n<2500 else 3 if n<4500 else 4
  if w['partOfSpeech']=='v.': w['category']='행동과 과정'
@@ -47,7 +52,7 @@ for n,w in enumerate(rows):
 rows.sort(key=lambda w:w['word']); packs=[]
 for n in range(0,len(rows),500):
  path=f'data/packs/core-{n//500+1:02}.json'; save(path,rows[n:n+500]); packs.append(dict(path=path,expectedCount=len(rows[n:n+500]),sha256=hashlib.sha256((ROOT/path).read_bytes()).hexdigest()))
-save('data/catalog-manifest.json',dict(schemaVersion=1,catalogVersion='2026.10.26.2',excludedLemmas=sorted(basic_exclusions),minValidUniqueWords=6000,expectedCount=len(rows),sources={'koreader-en-ko-v1.2.0':{'license':'CC-BY-SA-4.0','attribution':'data/sources/README.md'}},packs=packs))
+save('data/catalog-manifest.json',dict(schemaVersion=1,catalogVersion='2026.10.27.1',excludedLemmas=sorted(basic_exclusions),minValidUniqueWords=6000,expectedCount=len(rows),sources={'koreader-en-ko-v1.2.0':{'license':'CC-BY-SA-4.0','attribution':'data/sources/README.md'}},packs=packs))
 save('data/sources/conversion-report.json',dict(selected=len(rows),basicRemoved=sorted(basic_removed),excluded=excluded,archiveSHA256=hashlib.sha256((ROOT/'data/sources/en-ko.zip').read_bytes()).hexdigest(),levels=dict(collections.Counter(w['level'] for w in rows)),categories=dict(collections.Counter(w['category'] for w in rows))))
 samples=[]
 for level in range(1,5):

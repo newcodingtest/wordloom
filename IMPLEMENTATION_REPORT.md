@@ -67,6 +67,14 @@ IndexedDB `wordloom-toefl-v1` v2. v1 words/progress/meta 보존, quizAttempts/st
 
 실제 Chrome에서 1/2,000/3,250/4,200/6,500번 이동, Enter, 잘못된 값 4종, 카드 앞면 복귀, 완료 후 복귀, 320px 화면을 확인했다. 결과: verification/card-jump-check.json, 화면: verification/card-jump-mobile.png.
 
+## 한글 뜻 교정 (2026.10.27.1)
+
+전체 6,500개 영어·한국어 쌍을 검토하여 뜻·표현 1,533개를 교정하고, 2,176개는 중복 표현 및 구분자만 정리했다. 고유 표제어 6,500개와 기존 ID 및 뜻 이외의 필드는 유지했다. 원본 출처와 라이선스는 data/sources/README.md에 있으며, 파생 교정도 기존 CC BY-SA 4.0 조건을 따른다. 교정 원본은 data/sources/meaning-review.tsv, 배포 데이터는 data/packs/core-*.json, 변경 전후 기록은 verification/meaning-review.json에 보존했다.
+
+재생성 때 교정이 유지되도록 빌드에 교정표를 연결하고, 교정 회귀·편집 메모·중복 뜻·잘못된 괄호를 검출한다. 자동 검사는 번역 정확성 판정기를 대체하지 않는다. 독립된 전문가의 전수 검수는 수행하지 않았으며 의미 오류가 전혀 없다고 보증하지 않는다.
+
+검증: 데이터 6,500개 및 해시 검증, Python 테스트 4개(부정 입력 14종 포함), 학습 로직 테스트 7개, Chrome 통합 테스트 5개 통과. 데이터 재생성 결과의 해시 일치와 배포 빌드도 확인했다. 브라우저에서는 기존 카탈로그 갱신·진도/북마크 보존·오래된 백업 복원·오프라인 검색과 카드의 교정된 뜻을 확인했다. 과거 시험 기록은 변경하지 않는다. Android/iOS 및 Mac 서버 실기기 테스트는 이번 작업에서 수행하지 않았다.
+
 ## Shared Caddy deployment
 
 Removed standalone DNS/TLS services, configuration, tests and obsolete deployment verification artifacts. Dockerfile validates 6,500 words and builds an internal HTTP Nginx origin. compose.yaml connects only the app to mac-mini-proxy as wordloom-origin, with no published host ports. See deploy/SHARED_CADDY.md. Actual Mac container execution and public TLS remain unverified.

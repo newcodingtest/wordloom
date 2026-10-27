@@ -1,4 +1,4 @@
-﻿const CACHE = "wordloom-2026-10-26-3";
+﻿const CACHE = "wordloom-2026-10-27-1";
 const SHELL = [
   "./",
   "./index.html",

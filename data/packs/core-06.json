@@ -14,7 +14,7 @@
   {
     "id": "w:gospel",
     "word": "gospel",
-    "meaning": "복음서",
+    "meaning": "복음; 복음서",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -26,7 +26,7 @@
   {
     "id": "w:gossip",
     "word": "gossip",
-    "meaning": "험담, 입방아; 입방아를 찧다",
+    "meaning": "험담; 입방아; 입방아를 찧다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -50,7 +50,7 @@
   {
     "id": "w:gourmet",
     "word": "gourmet",
-    "meaning": "식통, 미식가",
+    "meaning": "식통; 미식가",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -74,7 +74,7 @@
   {
     "id": "w:govern",
     "word": "govern",
-    "meaning": "통치하다, 다스리다",
+    "meaning": "통치하다; 다스리다",
     "level": 4,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -98,7 +98,7 @@
   {
     "id": "w:governor",
     "word": "governor",
-    "meaning": "지사, 도지사, 주지사",
+    "meaning": "지사; 도지사; 주지사",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -122,7 +122,7 @@
   {
     "id": "w:grade",
     "word": "grade",
-    "meaning": "성적, 점수; 등급; 학년, 년, 학급, 급",
+    "meaning": "성적; 점수; 등급; 학년; 년; 학급; 급",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -134,7 +134,7 @@
   {
     "id": "w:gradient",
     "word": "gradient",
-    "meaning": "방향결수, 비탈도",
+    "meaning": "기울기; 경사도",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -146,7 +146,7 @@
   {
     "id": "w:gradually",
     "word": "gradually",
-    "meaning": "점점, 점차, 서서히",
+    "meaning": "점점; 점차; 서서히",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -170,7 +170,7 @@
   {
     "id": "w:graduation",
     "word": "graduation",
-    "meaning": "졸업식",
+    "meaning": "졸업; 졸업식",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -182,7 +182,7 @@
   {
     "id": "w:graffiti",
     "word": "graffiti",
-    "meaning": "그라피티, 그래피티",
+    "meaning": "그라피티; 그래피티",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -218,7 +218,7 @@
   {
     "id": "w:grammar",
     "word": "grammar",
-    "meaning": "Korean: 문법, 문법학",
+    "meaning": "문법",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -230,7 +230,7 @@
   {
     "id": "w:grandchild",
     "word": "grandchild",
-    "meaning": "손주, 외손주",
+    "meaning": "손주; 외손주",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -242,7 +242,7 @@
   {
     "id": "w:granddaughter",
     "word": "granddaughter",
-    "meaning": "손녀, 외손녀",
+    "meaning": "손녀; 외손녀",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -254,7 +254,7 @@
   {
     "id": "w:grandson",
     "word": "grandson",
-    "meaning": "손자, 외손자",
+    "meaning": "손자; 외손자",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -290,7 +290,7 @@
   {
     "id": "w:grapefruit",
     "word": "grapefruit",
-    "meaning": "그레이프프루트, 자몽",
+    "meaning": "그레이프프루트; 자몽",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -302,7 +302,7 @@
   {
     "id": "w:graph",
     "word": "graph",
-    "meaning": "그래프, 도표",
+    "meaning": "그래프; 도표",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -314,7 +314,7 @@
   {
     "id": "w:graphic",
     "word": "graphic",
-    "meaning": "그림을 보는 듯한",
+    "meaning": "그림의; 생생한; 노골적인",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -326,7 +326,7 @@
   {
     "id": "w:graphics",
     "word": "graphics",
-    "meaning": "그래픽, 제도법",
+    "meaning": "그래픽; 제도법",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -338,7 +338,7 @@
   {
     "id": "w:grass",
     "word": "grass",
-    "meaning": "풀, 잡초; 풀밭, 잔디밭",
+    "meaning": "풀; 잡초; 풀밭; 잔디밭",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -362,7 +362,7 @@
   {
     "id": "w:grateful",
     "word": "grateful",
-    "meaning": "감사하다, 고맙다",
+    "meaning": "감사하는; 고마워하는",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -386,7 +386,7 @@
   {
     "id": "w:grave",
     "word": "grave",
-    "meaning": "무덤, 묘",
+    "meaning": "무덤; 묘",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -410,7 +410,7 @@
   {
     "id": "w:graveyard",
     "word": "graveyard",
-    "meaning": "묘지, 묘원",
+    "meaning": "묘지; 묘원",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -434,7 +434,7 @@
   {
     "id": "w:graze",
     "word": "graze",
-    "meaning": "방목하다; 풀을 뜯다, 뜯어먹다",
+    "meaning": "방목하다; 풀을 뜯다; 뜯어먹다",
     "level": 4,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -446,7 +446,7 @@
   {
     "id": "w:grease",
     "word": "grease",
-    "meaning": "기름, 유지, 지방; 윤활유",
+    "meaning": "기름; 유지; 지방; 윤활유",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -458,7 +458,7 @@
   {
     "id": "w:greatness",
     "word": "greatness",
-    "meaning": "큼",
+    "meaning": "위대함",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -470,7 +470,7 @@
   {
     "id": "w:greed",
     "word": "greed",
-    "meaning": "탐욕, 욕심",
+    "meaning": "탐욕; 욕심",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -482,7 +482,7 @@
   {
     "id": "w:greedy",
     "word": "greedy",
-    "meaning": "욕심 많다, 탐욕스럽다",
+    "meaning": "욕심 많은; 탐욕스러운",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -542,7 +542,7 @@
   {
     "id": "w:grid",
     "word": "grid",
-    "meaning": "격자, 그리드",
+    "meaning": "격자; 그리드",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -554,7 +554,7 @@
   {
     "id": "w:grief",
     "word": "grief",
-    "meaning": "비애, 슬픔",
+    "meaning": "비애; 슬픔",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -578,7 +578,7 @@
   {
     "id": "w:grill",
     "word": "grill",
-    "meaning": "그릴; 그릴, 바비큐; 굽다",
+    "meaning": "그릴; 바비큐; 굽다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -590,7 +590,7 @@
   {
     "id": "w:grind",
     "word": "grind",
-    "meaning": "빻다, 갈다",
+    "meaning": "빻다; 갈다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -614,7 +614,7 @@
   {
     "id": "w:groin",
     "word": "groin",
-    "meaning": "샅, 가랑이, 서혜, 서혜부",
+    "meaning": "샅; 가랑이; 서혜; 서혜부",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -626,7 +626,7 @@
   {
     "id": "w:groom",
     "word": "groom",
-    "meaning": "말꾼, 마부",
+    "meaning": "신랑; 몸단장을 하다; 손질하다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -638,7 +638,7 @@
   {
     "id": "w:groove",
     "word": "groove",
-    "meaning": "홈; 그루브; 갱",
+    "meaning": "홈; 음악의 리듬감",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -650,7 +650,7 @@
   {
     "id": "w:ground",
     "word": "ground",
-    "meaning": "땅; 땅, 흙, 토양; 바닥",
+    "meaning": "땅; 흙; 토양; 바닥",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -662,7 +662,7 @@
   {
     "id": "w:group",
     "word": "group",
-    "meaning": "그룹, 그루빠, 집단, 군; 그룹",
+    "meaning": "집단; 무리; 그룹",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -698,7 +698,7 @@
   {
     "id": "w:growth",
     "word": "growth",
-    "meaning": "성장, 생장",
+    "meaning": "성장; 생장",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -758,7 +758,7 @@
   {
     "id": "w:guard",
     "word": "guard",
-    "meaning": "가드, 위병",
+    "meaning": "경비원; 지키다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -794,7 +794,7 @@
   {
     "id": "w:guest",
     "word": "guest",
-    "meaning": "손님, 하객, 내빈, 래빈, 방문객; 손님, 고객",
+    "meaning": "손님; 초대 손님",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -818,7 +818,7 @@
   {
     "id": "w:guide",
     "word": "guide",
-    "meaning": "안내인, 가이드, 길잡이, 관광 가이드, 여행 가이드; 가이드, 안내서; 지표",
+    "meaning": "안내하다; 안내자; 안내서",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -830,7 +830,7 @@
   {
     "id": "w:guillotine",
     "word": "guillotine",
-    "meaning": "단두대, 기요틴",
+    "meaning": "단두대; 기요틴",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -842,7 +842,7 @@
   {
     "id": "w:guilt",
     "word": "guilt",
-    "meaning": "죄, 유죄, 책임; 범죄, 유죄; 죄책감",
+    "meaning": "죄; 유죄; 책임; 범죄; 죄책감",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -926,7 +926,7 @@
   {
     "id": "w:gum",
     "word": "gum",
-    "meaning": "잇몸",
+    "meaning": "잇몸; 껌; 고무질",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -938,7 +938,7 @@
   {
     "id": "w:gun",
     "word": "gun",
-    "meaning": "총, 권총; 총",
+    "meaning": "총; 권총",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -962,7 +962,7 @@
   {
     "id": "w:guru",
     "word": "guru",
-    "meaning": "지도자, 구루",
+    "meaning": "지도자; 구루",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -974,7 +974,7 @@
   {
     "id": "w:gut",
     "word": "gut",
-    "meaning": "배, 똥배",
+    "meaning": "장; 배; 내장을 제거하다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -998,7 +998,7 @@
   {
     "id": "w:gutter",
     "word": "gutter",
-    "meaning": "거터",
+    "meaning": "배수로; 홈통",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1010,7 +1010,7 @@
   {
     "id": "w:gym",
     "word": "gym",
-    "meaning": "체육관, 헬스장",
+    "meaning": "체육관; 헬스장",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1046,7 +1046,7 @@
   {
     "id": "w:gypsy",
     "word": "gypsy",
-    "meaning": "집시",
+    "meaning": "집시(로마인을 가리키던 명칭)",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1058,7 +1058,7 @@
   {
     "id": "w:habit",
     "word": "habit",
-    "meaning": "습관, 버릇; 버릇, 습관",
+    "meaning": "습관; 버릇",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1106,7 +1106,7 @@
   {
     "id": "w:haha",
     "word": "haha",
-    "meaning": "하하, ㅋㅋㅋ",
+    "meaning": "하하; ㅋㅋㅋ",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1130,7 +1130,7 @@
   {
     "id": "w:haircut",
     "word": "haircut",
-    "meaning": "이발, 산발, 머리 깎기",
+    "meaning": "이발; 산발; 머리 깎기",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1154,7 +1154,7 @@
   {
     "id": "w:hairpin",
     "word": "hairpin",
-    "meaning": "머리핀, 헤어핀, 머리빈침",
+    "meaning": "머리핀; 헤어핀; 머리빈침",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1166,7 +1166,7 @@
   {
     "id": "w:hairstyle",
     "word": "hairstyle",
-    "meaning": "이발, 리발, 헤어스타일, 머리 모양",
+    "meaning": "머리 모양; 헤어스타일",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1226,7 +1226,7 @@
   {
     "id": "w:halo",
     "word": "halo",
-    "meaning": "무리",
+    "meaning": "후광; 빛의 테두리",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1250,7 +1250,7 @@
   {
     "id": "w:hamburger",
     "word": "hamburger",
-    "meaning": "햄버거, 고기겹빵",
+    "meaning": "햄버거; 고기겹빵",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1262,7 +1262,7 @@
   {
     "id": "w:hamlet",
     "word": "hamlet",
-    "meaning": "촌락, 마을",
+    "meaning": "촌락; 마을",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1274,7 +1274,7 @@
   {
     "id": "w:hammer",
     "word": "hammer",
-    "meaning": "망치, 마치, 해머; 추골; 해머",
+    "meaning": "망치; 마치; 해머; 추골",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1310,7 +1310,7 @@
   {
     "id": "w:hamster",
     "word": "hamster",
-    "meaning": "햄스터, 뵤",
+    "meaning": "햄스터",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1322,7 +1322,7 @@
   {
     "id": "w:han",
     "word": "han",
-    "meaning": "한",
+    "meaning": "한; 깊이 맺힌 슬픔과 원망",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1334,7 +1334,7 @@
   {
     "id": "w:handbook",
     "word": "handbook",
-    "meaning": "편람, 안내서, 핸드북",
+    "meaning": "편람; 안내서; 핸드북",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1406,7 +1406,7 @@
   {
     "id": "w:handle",
     "word": "handle",
-    "meaning": "손잡이",
+    "meaning": "손잡이; 다루다; 처리하다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1418,7 +1418,7 @@
   {
     "id": "w:handshake",
     "word": "handshake",
-    "meaning": "악수, 핸드세이크, 핸드셰이크; 핸드셰이킹",
+    "meaning": "악수; 핸드세이크; 핸드셰이크; 핸드셰이킹",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1430,7 +1430,7 @@
   {
     "id": "w:handsome",
     "word": "handsome",
-    "meaning": "잘생기다, 멋있다",
+    "meaning": "잘생긴; 멋진",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1454,7 +1454,7 @@
   {
     "id": "w:hang",
     "word": "hang",
-    "meaning": "걸리다; 걸다; 걸다, 매달다",
+    "meaning": "걸리다; 걸다; 매달다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -1466,7 +1466,7 @@
   {
     "id": "w:hangar",
     "word": "hangar",
-    "meaning": "격납고, 행어",
+    "meaning": "격납고; 행어",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1490,7 +1490,7 @@
   {
     "id": "w:hangover",
     "word": "hangover",
-    "meaning": "숙취, 술병",
+    "meaning": "숙취; 술병",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1502,7 +1502,7 @@
   {
     "id": "w:happen",
     "word": "happen",
-    "meaning": "일어나다, 발생하다",
+    "meaning": "일어나다; 발생하다",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -1538,7 +1538,7 @@
   {
     "id": "w:hardly",
     "word": "hardly",
-    "meaning": "거의",
+    "meaning": "거의 ~않다; 도저히 ~않다",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1550,7 +1550,7 @@
   {
     "id": "w:hardship",
     "word": "hardship",
-    "meaning": "어려움, 고난",
+    "meaning": "어려움; 고난",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1562,7 +1562,7 @@
   {
     "id": "w:hardware",
     "word": "hardware",
-    "meaning": "하드웨어, 굳은모",
+    "meaning": "하드웨어; 철물",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1574,7 +1574,7 @@
   {
     "id": "w:hardworking",
     "word": "hardworking",
-    "meaning": "근면하다",
+    "meaning": "근면한; 열심히 일하는",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1586,7 +1586,7 @@
   {
     "id": "w:hare",
     "word": "hare",
-    "meaning": "산토끼, 토끼",
+    "meaning": "산토끼; 토끼",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1598,7 +1598,7 @@
   {
     "id": "w:harem",
     "word": "harem",
-    "meaning": "하렘, 후궁",
+    "meaning": "하렘; 후궁",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1622,7 +1622,7 @@
   {
     "id": "w:harmful",
     "word": "harmful",
-    "meaning": "해로운, 유해한",
+    "meaning": "해로운; 유해한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1634,7 +1634,7 @@
   {
     "id": "w:harmless",
     "word": "harmless",
-    "meaning": "무해의",
+    "meaning": "해롭지 않은; 무해한",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1646,7 +1646,7 @@
   {
     "id": "w:harmonica",
     "word": "harmonica",
-    "meaning": "하모니카, 구풍금",
+    "meaning": "하모니카; 구풍금",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1670,7 +1670,7 @@
   {
     "id": "w:harness",
     "word": "harness",
-    "meaning": "마구",
+    "meaning": "마구; 이용하다; 동력으로 활용하다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1706,7 +1706,7 @@
   {
     "id": "w:harsh",
     "word": "harsh",
-    "meaning": "거칠다; 냉혹하다",
+    "meaning": "가혹한; 거친",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1718,7 +1718,7 @@
   {
     "id": "w:harvest",
     "word": "harvest",
-    "meaning": "수확; 수확하다, 거두다",
+    "meaning": "수확; 수확하다; 거두다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1766,7 +1766,7 @@
   {
     "id": "w:hatred",
     "word": "hatred",
-    "meaning": "증오심, 증오, 미움",
+    "meaning": "증오심; 증오; 미움",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1778,7 +1778,7 @@
   {
     "id": "w:haul",
     "word": "haul",
-    "meaning": "포트트릭",
+    "meaning": "끌다; 운반하다; 한 번에 얻은 양",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1790,7 +1790,7 @@
   {
     "id": "w:haunt",
     "word": "haunt",
-    "meaning": "단골",
+    "meaning": "자주 가는 곳; 계속 떠오르다; 유령이 나타나다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1802,7 +1802,7 @@
   {
     "id": "w:haven",
     "word": "haven",
-    "meaning": "항구, 해항; 피난처",
+    "meaning": "항구; 해항; 피난처",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1886,7 +1886,7 @@
   {
     "id": "w:header",
     "word": "header",
-    "meaning": "헤딩, 머리받기",
+    "meaning": "페이지 상단부; 머리로 공을 받기",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1898,7 +1898,7 @@
   {
     "id": "w:headline",
     "word": "headline",
-    "meaning": "표제, 헤드라인",
+    "meaning": "표제; 헤드라인",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1922,7 +1922,7 @@
   {
     "id": "w:headphones",
     "word": "headphones",
-    "meaning": "헤드폰, 이어폰",
+    "meaning": "헤드폰; 이어폰",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1934,7 +1934,7 @@
   {
     "id": "w:headquarters",
     "word": "headquarters",
-    "meaning": "사령부; 본부, 본사",
+    "meaning": "사령부; 본부; 본사",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1958,7 +1958,7 @@
   {
     "id": "w:heal",
     "word": "heal",
-    "meaning": "치료되다, 낫다",
+    "meaning": "치료되다; 낫다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -1970,7 +1970,7 @@
   {
     "id": "w:health",
     "word": "health",
-    "meaning": "건강; 피통",
+    "meaning": "건강",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -1982,7 +1982,7 @@
   {
     "id": "w:healthy",
     "word": "healthy",
-    "meaning": "건강하다",
+    "meaning": "건강한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -1994,7 +1994,7 @@
   {
     "id": "w:heap",
     "word": "heap",
-    "meaning": "더미, 무더기",
+    "meaning": "더미; 무더기",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2006,7 +2006,7 @@
   {
     "id": "w:hearsay",
     "word": "hearsay",
-    "meaning": "전문, 소문; 전문증거",
+    "meaning": "전문; 소문; 전문증거",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2018,7 +2018,7 @@
   {
     "id": "w:hearse",
     "word": "hearse",
-    "meaning": "영구차, 령구차",
+    "meaning": "영구차",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2054,7 +2054,7 @@
   {
     "id": "w:hearth",
     "word": "hearth",
-    "meaning": "부뚜막, 난로",
+    "meaning": "부뚜막; 난로",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2090,7 +2090,7 @@
   {
     "id": "w:heater",
     "word": "heater",
-    "meaning": "히터, 난방기, 가열기",
+    "meaning": "히터; 난방기; 가열기",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2114,7 +2114,7 @@
   {
     "id": "w:heaven",
     "word": "heaven",
-    "meaning": "하늘, 하늘나라, 천국, 천당, 낙원, 락원",
+    "meaning": "천국; 하늘",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2126,7 +2126,7 @@
   {
     "id": "w:heavenly",
     "word": "heavenly",
-    "meaning": "천국의, 하늘의",
+    "meaning": "천국의; 하늘의",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -2138,7 +2138,7 @@
   {
     "id": "w:heavy",
     "word": "heavy",
-    "meaning": "무겁다",
+    "meaning": "무거운; 심한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -2174,7 +2174,7 @@
   {
     "id": "w:heel",
     "word": "heel",
-    "meaning": "발뒤꿈치, 발뒤축; 굽",
+    "meaning": "발뒤꿈치; 발뒤축; 굽",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2186,7 +2186,7 @@
   {
     "id": "w:height",
     "word": "height",
-    "meaning": "키",
+    "meaning": "높이; 키",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2222,7 +2222,7 @@
   {
     "id": "w:helicopter",
     "word": "helicopter",
-    "meaning": "헬리콥터, 헬기, 직승비행기, 직승기",
+    "meaning": "헬리콥터; 헬기; 직승비행기; 직승기",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2246,7 +2246,7 @@
   {
     "id": "w:hell",
     "word": "hell",
-    "meaning": "지옥; 지옥, 마계, 나락",
+    "meaning": "지옥; 마계; 나락",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2258,7 +2258,7 @@
   {
     "id": "w:helm",
     "word": "helm",
-    "meaning": "키, 타, 타륜",
+    "meaning": "키; 타; 타륜",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2270,7 +2270,7 @@
   {
     "id": "w:helmet",
     "word": "helmet",
-    "meaning": "투구, 헬멧",
+    "meaning": "투구; 헬멧",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2282,7 +2282,7 @@
   {
     "id": "w:helper",
     "word": "helper",
-    "meaning": "조수, 도우미",
+    "meaning": "조수; 도우미",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2294,7 +2294,7 @@
   {
     "id": "w:helpless",
     "word": "helpless",
-    "meaning": "무력하다",
+    "meaning": "무력한; 스스로 어찌할 수 없는",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -2390,7 +2390,7 @@
   {
     "id": "w:henry",
     "word": "henry",
-    "meaning": "헨리",
+    "meaning": "헨리(인덕턴스의 단위)",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2426,7 +2426,7 @@
   {
     "id": "w:herd",
     "word": "herd",
-    "meaning": "무리, 떼, 군; 군중, 무리",
+    "meaning": "무리; 떼; 군; 군중",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2438,7 +2438,7 @@
   {
     "id": "w:heresy",
     "word": "heresy",
-    "meaning": "이단, 사교, 사종; 이단",
+    "meaning": "이단; 사교; 사종",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2450,7 +2450,7 @@
   {
     "id": "w:heretic",
     "word": "heretic",
-    "meaning": "이단자, 이교도",
+    "meaning": "이단자; 이교도",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2486,7 +2486,7 @@
   {
     "id": "w:hero",
     "word": "hero",
-    "meaning": "영웅, 히어로, 주인공",
+    "meaning": "영웅; 히어로; 주인공",
     "level": 1,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -2510,7 +2510,7 @@
   {
     "id": "w:heroine",
     "word": "heroine",
-    "meaning": "히로인, 여자영웅, 용부, 열녀, 렬녀",
+    "meaning": "여성 영웅; 여주인공",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2522,7 +2522,7 @@
   {
     "id": "w:heroism",
     "word": "heroism",
-    "meaning": "영웅심, 영웅주의",
+    "meaning": "영웅심; 영웅주의",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2606,7 +2606,7 @@
   {
     "id": "w:hide",
     "word": "hide",
-    "meaning": "가죽, 피혁; 숨기다, 감추다, 가리다; 숨다",
+    "meaning": "가죽; 피혁; 숨기다; 감추다; 가리다; 숨다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2642,7 +2642,7 @@
   {
     "id": "w:highlight",
     "word": "highlight",
-    "meaning": "하이라이트",
+    "meaning": "강조하다; 가장 중요한 부분",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2654,7 +2654,7 @@
   {
     "id": "w:highway",
     "word": "highway",
-    "meaning": "공로, 가도",
+    "meaning": "주요 도로; 간선도로",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2666,7 +2666,7 @@
   {
     "id": "w:hike",
     "word": "hike",
-    "meaning": "등산, 하이킹, 산책; 등산하다, 산책하다",
+    "meaning": "등산; 하이킹; 산책; 등산하다; 산책하다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2678,7 +2678,7 @@
   {
     "id": "w:hill",
     "word": "hill",
-    "meaning": "언덕, 소산, 산언덕; 북",
+    "meaning": "언덕",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2690,7 +2690,7 @@
   {
     "id": "w:hilt",
     "word": "hilt",
-    "meaning": "칼자루, 자루",
+    "meaning": "칼자루; 자루",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2702,7 +2702,7 @@
   {
     "id": "w:hind",
     "word": "hind",
-    "meaning": "뒤의, 배후의",
+    "meaning": "뒤의; 배후의",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -2714,7 +2714,7 @@
   {
     "id": "w:hint",
     "word": "hint",
-    "meaning": "힌트, 실마리, 암시",
+    "meaning": "힌트; 실마리; 암시",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2726,7 +2726,7 @@
   {
     "id": "w:hip",
     "word": "hip",
-    "meaning": "허리",
+    "meaning": "엉덩이; 고관절",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2762,7 +2762,7 @@
   {
     "id": "w:historian",
     "word": "historian",
-    "meaning": "역사학자, 력사학자, 역사가, 력사가, 사가, 사학자; 역사학자, 력사학자, 역사가, 력사가, 사학자",
+    "meaning": "역사가; 역사학자",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2786,7 +2786,7 @@
   {
     "id": "w:historical",
     "word": "historical",
-    "meaning": "역사적인, 력사적인",
+    "meaning": "역사의; 역사에 관한",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -2798,7 +2798,7 @@
   {
     "id": "w:history",
     "word": "history",
-    "meaning": "역사, 력사; 사학; 병력",
+    "meaning": "역사; 이력",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2846,7 +2846,7 @@
   {
     "id": "w:hmm",
     "word": "hmm",
-    "meaning": "음, 으음",
+    "meaning": "음; 으음",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2858,7 +2858,7 @@
   {
     "id": "w:hoax",
     "word": "hoax",
-    "meaning": "속임수를 쓰다, 사기치다",
+    "meaning": "속임수를 쓰다; 사기치다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -2906,7 +2906,7 @@
   {
     "id": "w:hockey",
     "word": "hockey",
-    "meaning": "하키, 호케이",
+    "meaning": "하키; 호케이",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2918,7 +2918,7 @@
   {
     "id": "w:hodja",
     "word": "hodja",
-    "meaning": "호자",
+    "meaning": "호자(이슬람의 교사·종교인에 대한 존칭)",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2954,7 +2954,7 @@
   {
     "id": "w:hold",
     "word": "hold",
-    "meaning": "선창; 들다, 쥐다",
+    "meaning": "선창; 들다; 쥐다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2978,7 +2978,7 @@
   {
     "id": "w:holiday",
     "word": "holiday",
-    "meaning": "축제일, 축일; 휴일, 휴가; 휴가",
+    "meaning": "축제일; 축일; 휴일; 휴가",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -2990,7 +2990,7 @@
   {
     "id": "w:holiness",
     "word": "holiness",
-    "meaning": "존엄",
+    "meaning": "거룩함; 신성함",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3026,7 +3026,7 @@
   {
     "id": "w:holy",
     "word": "holy",
-    "meaning": "거룩한, 신성한",
+    "meaning": "거룩한; 신성한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3038,7 +3038,7 @@
   {
     "id": "w:homecoming",
     "word": "homecoming",
-    "meaning": "귀가, 귀국",
+    "meaning": "귀가; 귀국",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3050,7 +3050,7 @@
   {
     "id": "w:homeland",
     "word": "homeland",
-    "meaning": "고국, 자기 나라, 고향, 모국, 조국",
+    "meaning": "고국; 자기 나라; 고향; 모국; 조국",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3086,7 +3086,7 @@
   {
     "id": "w:homosexual",
     "word": "homosexual",
-    "meaning": "동성애자, 게이",
+    "meaning": "동성애자; 게이",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3098,7 +3098,7 @@
   {
     "id": "w:honest",
     "word": "honest",
-    "meaning": "정직하다",
+    "meaning": "정직한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3134,7 +3134,7 @@
   {
     "id": "w:honey",
     "word": "honey",
-    "meaning": "꿀, 봉밀, 밀; 여보, 자기",
+    "meaning": "꿀; 봉밀; 밀; 여보; 자기",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3146,7 +3146,7 @@
   {
     "id": "w:honeymoon",
     "word": "honeymoon",
-    "meaning": "밀월, 신혼, 허니문; 신혼여행, 신혼려행",
+    "meaning": "신혼여행; 밀월 기간",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3182,7 +3182,7 @@
   {
     "id": "w:hood",
     "word": "hood",
-    "meaning": "후드, 보닛",
+    "meaning": "후드; 보닛",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3194,7 +3194,7 @@
   {
     "id": "w:hoodie",
     "word": "hoodie",
-    "meaning": "후드, 후드티",
+    "meaning": "후드; 후드티",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3206,7 +3206,7 @@
   {
     "id": "w:hoof",
     "word": "hoof",
-    "meaning": "굽, 발굽",
+    "meaning": "굽; 발굽",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3230,7 +3230,7 @@
   {
     "id": "w:hooligan",
     "word": "hooligan",
-    "meaning": "훌리건, 불량배, 깡패, 불량자, 악당, 불한당",
+    "meaning": "훌리건; 불량배; 깡패; 불량자; 악당; 불한당",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3242,7 +3242,7 @@
   {
     "id": "w:hoop",
     "word": "hoop",
-    "meaning": "테, 후프",
+    "meaning": "테; 후프",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3266,7 +3266,7 @@
   {
     "id": "w:hop",
     "word": "hop",
-    "meaning": "홉, 호프",
+    "meaning": "깡충 뛰다; 짧은 이동; 홉",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3278,7 +3278,7 @@
   {
     "id": "w:hope",
     "word": "hope",
-    "meaning": "바람, 희망, 기대; 바램, 희망; 바라다, 희망하다, 원하다",
+    "meaning": "희망; 바라다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3290,7 +3290,7 @@
   {
     "id": "w:horde",
     "word": "horde",
-    "meaning": "오르도",
+    "meaning": "큰 무리; 떼",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3302,7 +3302,7 @@
   {
     "id": "w:horizon",
     "word": "horizon",
-    "meaning": "지평선, 수평선",
+    "meaning": "지평선; 수평선",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3314,7 +3314,7 @@
   {
     "id": "w:horizontal",
     "word": "horizontal",
-    "meaning": "가로의, 수평의, 지평의",
+    "meaning": "가로의; 수평의; 지평의",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3350,7 +3350,7 @@
   {
     "id": "w:hornet",
     "word": "hornet",
-    "meaning": "말벌, 호넷",
+    "meaning": "말벌; 호넷",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3374,7 +3374,7 @@
   {
     "id": "w:horrible",
     "word": "horrible",
-    "meaning": "끔찍하다",
+    "meaning": "끔찍한; 지독한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3386,7 +3386,7 @@
   {
     "id": "w:horror",
     "word": "horror",
-    "meaning": "공포, 무서움, 두려움; 호러, 공포",
+    "meaning": "공포; 무서움; 두려움; 호러",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3458,7 +3458,7 @@
   {
     "id": "w:hospital",
     "word": "hospital",
-    "meaning": "병원, 의원",
+    "meaning": "병원; 의원",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3470,7 +3470,7 @@
   {
     "id": "w:hospitality",
     "word": "hospitality",
-    "meaning": "환대; 호스피탤리티, 환대산업",
+    "meaning": "환대; 호스피탤리티; 환대산업",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3482,7 +3482,7 @@
   {
     "id": "w:hospitalized",
     "word": "hospitalized",
-    "meaning": "입원, 입원한, 입원 중인",
+    "meaning": "입원한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3494,7 +3494,7 @@
   {
     "id": "w:host",
     "word": "host",
-    "meaning": "주인; 호스트",
+    "meaning": "주최자; 진행자; 숙주",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3506,7 +3506,7 @@
   {
     "id": "w:hostage",
     "word": "hostage",
-    "meaning": "인질, 볼모",
+    "meaning": "인질; 볼모",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3518,7 +3518,7 @@
   {
     "id": "w:hostel",
     "word": "hostel",
-    "meaning": "호스텔, 기숙사",
+    "meaning": "호스텔; 기숙사",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3530,7 +3530,7 @@
   {
     "id": "w:hostess",
     "word": "hostess",
-    "meaning": "여주인, 녀주인; 스튜어디스, 호스티스, 호스테스; 호스티스, 호스테스, 도우미",
+    "meaning": "여성 주최자; 여성 접객원",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3554,7 +3554,7 @@
   {
     "id": "w:hostility",
     "word": "hostility",
-    "meaning": "적의, 적대",
+    "meaning": "적의; 적대",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3566,7 +3566,7 @@
   {
     "id": "w:hotel",
     "word": "hotel",
-    "meaning": "호텔, 여관, 려관, 객사",
+    "meaning": "호텔",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3590,7 +3590,7 @@
   {
     "id": "w:hottie",
     "word": "hottie",
-    "meaning": "퀸카",
+    "meaning": "매력적인 사람(속어)",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3638,7 +3638,7 @@
   {
     "id": "w:housework",
     "word": "housework",
-    "meaning": "가사, 집안일",
+    "meaning": "가사; 집안일",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3662,7 +3662,7 @@
   {
     "id": "w:however",
     "word": "however",
-    "meaning": "아무튼",
+    "meaning": "그러나; 하지만; 아무리 ~해도",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3674,7 +3674,7 @@
   {
     "id": "w:howl",
     "word": "howl",
-    "meaning": "울음, 울부짖음, 우짖음; 울부짖음; 울다, 울부짖다, 우짖다",
+    "meaning": "울음; 울부짖음; 우짖음; 울다; 울부짖다; 우짖다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3686,7 +3686,7 @@
   {
     "id": "w:huge",
     "word": "huge",
-    "meaning": "거대하다, 커다랗다",
+    "meaning": "거대한; 아주 큰",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3698,7 +3698,7 @@
   {
     "id": "w:huh",
     "word": "huh",
-    "meaning": "어; 아이가",
+    "meaning": "어?; 응?",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3722,7 +3722,7 @@
   {
     "id": "w:hum",
     "word": "hum",
-    "meaning": "허밍, 콧노래; 콧노래를 부르다",
+    "meaning": "허밍; 콧노래; 콧노래를 부르다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3734,7 +3734,7 @@
   {
     "id": "w:human",
     "word": "human",
-    "meaning": "사람, 인류, 인간; 사람의, 인간의",
+    "meaning": "사람; 인류; 인간; 사람의; 인간의",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3746,7 +3746,7 @@
   {
     "id": "w:humane",
     "word": "humane",
-    "meaning": "인도적",
+    "meaning": "인도적인; 인정 있는",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3758,7 +3758,7 @@
   {
     "id": "w:humanitarian",
     "word": "humanitarian",
-    "meaning": "인도적; 박애의, 인도주의",
+    "meaning": "인도주의의; 인도주의자",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3770,7 +3770,7 @@
   {
     "id": "w:humanity",
     "word": "humanity",
-    "meaning": "인류, 인간; 인간성",
+    "meaning": "인류; 인간; 인간성",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3794,7 +3794,7 @@
   {
     "id": "w:humble",
     "word": "humble",
-    "meaning": "겸손한, 경멸한",
+    "meaning": "겸손한; 보잘것없는",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3806,7 +3806,7 @@
   {
     "id": "w:humid",
     "word": "humid",
-    "meaning": "습기가 많다, 축축하다",
+    "meaning": "습한; 습기가 많은",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3818,7 +3818,7 @@
   {
     "id": "w:humidity",
     "word": "humidity",
-    "meaning": "습도, 습기; 습도",
+    "meaning": "습도; 습기",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3830,7 +3830,7 @@
   {
     "id": "w:humiliate",
     "word": "humiliate",
-    "meaning": "굴욕을 주다, 굴욕감을 주다, 모욕하다",
+    "meaning": "굴욕을 주다; 굴욕감을 주다; 모욕하다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -3842,7 +3842,7 @@
   {
     "id": "w:humiliation",
     "word": "humiliation",
-    "meaning": "치욕; 굴욕, 오욕",
+    "meaning": "치욕; 굴욕; 오욕",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3866,7 +3866,7 @@
   {
     "id": "w:humour",
     "word": "humour",
-    "meaning": "유머, 해학; 기분",
+    "meaning": "유머; 해학; 기분",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3878,7 +3878,7 @@
   {
     "id": "w:hump",
     "word": "hump",
-    "meaning": "곱사, 곱사등",
+    "meaning": "혹; 불룩한 부분",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3890,7 +3890,7 @@
   {
     "id": "w:hung",
     "word": "hung",
-    "meaning": "중단",
+    "meaning": "걸린; 결론을 내리지 못한",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -3902,7 +3902,7 @@
   {
     "id": "w:hunger",
     "word": "hunger",
-    "meaning": "굶주림, 배고픔",
+    "meaning": "굶주림; 배고픔",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3914,7 +3914,7 @@
   {
     "id": "w:hunt",
     "word": "hunt",
-    "meaning": "사냥, 수렵; 사냥하다, 수렵하다",
+    "meaning": "사냥; 수렵; 사냥하다; 수렵하다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3926,7 +3926,7 @@
   {
     "id": "w:hunter",
     "word": "hunter",
-    "meaning": "사냥꾼, 엽사, 렵사",
+    "meaning": "사냥꾼",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3938,7 +3938,7 @@
   {
     "id": "w:hurdle",
     "word": "hurdle",
-    "meaning": "허들, 장해; 장애물, 허들, 장애",
+    "meaning": "허들; 장해; 장애물; 장애",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3962,7 +3962,7 @@
   {
     "id": "w:hurricane",
     "word": "hurricane",
-    "meaning": "허리케인, 폭풍, 폭풍우, 하리켄",
+    "meaning": "허리케인; 폭풍; 폭풍우; 하리켄",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -3998,7 +3998,7 @@
   {
     "id": "w:hustler",
     "word": "hustler",
-    "meaning": "포주, 기둥서방; 남창",
+    "meaning": "사기꾼; 적극적으로 돈벌이하는 사람",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4010,7 +4010,7 @@
   {
     "id": "w:hut",
     "word": "hut",
-    "meaning": "소옥, 오두막집; 오두막, 소옥",
+    "meaning": "소옥; 오두막집; 오두막",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4022,7 +4022,7 @@
   {
     "id": "w:hwan",
     "word": "hwan",
-    "meaning": "환",
+    "meaning": "환(과거 한국의 화폐 단위)",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4106,7 +4106,7 @@
   {
     "id": "w:hymn",
     "word": "hymn",
-    "meaning": "찬가, 찬미가, 찬송가",
+    "meaning": "찬가; 찬미가; 찬송가",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4118,7 +4118,7 @@
   {
     "id": "w:hyperspace",
     "word": "hyperspace",
-    "meaning": "초공간, 하이퍼스페이스",
+    "meaning": "초공간; 하이퍼스페이스",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4166,7 +4166,7 @@
   {
     "id": "w:hypocritical",
     "word": "hypocritical",
-    "meaning": "위선적, 이중적",
+    "meaning": "위선적인",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4190,7 +4190,7 @@
   {
     "id": "w:hypothesis",
     "word": "hypothesis",
-    "meaning": "가설; 가정; 가정법",
+    "meaning": "가설; 가정",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4202,7 +4202,7 @@
   {
     "id": "w:hypothetical",
     "word": "hypothetical",
-    "meaning": "가설적",
+    "meaning": "가설의; 가정적인",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4238,7 +4238,7 @@
   {
     "id": "w:ice",
     "word": "ice",
-    "meaning": "얼음; 아이스, 아이스크림; 얼다",
+    "meaning": "얼음; 아이스; 아이스크림; 얼다",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4274,7 +4274,7 @@
   {
     "id": "w:icon",
     "word": "icon",
-    "meaning": "이콘, 성상, 성화; 우상",
+    "meaning": "아이콘; 상징적인 인물; 성상",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4286,7 +4286,7 @@
   {
     "id": "w:idea",
     "word": "idea",
-    "meaning": "생각, 아이디어, 사상; 구상",
+    "meaning": "생각; 아이디어; 사상; 구상",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4298,7 +4298,7 @@
   {
     "id": "w:ideal",
     "word": "ideal",
-    "meaning": "이상, 리상; 이상적, 리상적",
+    "meaning": "이상적인; 이상",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4310,7 +4310,7 @@
   {
     "id": "w:identical",
     "word": "identical",
-    "meaning": "동일한, 똑같은; 동일한, 바로 그; 동일한, 항등의",
+    "meaning": "동일한; 똑같은; 바로 그; 항등의",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4334,7 +4334,7 @@
   {
     "id": "w:identify",
     "word": "identify",
-    "meaning": "분별하다, 식별하다; 동정하다",
+    "meaning": "식별하다; 확인하다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -4346,7 +4346,7 @@
   {
     "id": "w:identity",
     "word": "identity",
-    "meaning": "동일함, 동일성; 아이덴티티, 정체성; 정체",
+    "meaning": "동일함; 동일성; 아이덴티티; 정체성; 정체",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4370,7 +4370,7 @@
   {
     "id": "w:ideology",
     "word": "ideology",
-    "meaning": "이데올로기, 이념, 리념; 관념학",
+    "meaning": "이념; 사상 체계",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4382,7 +4382,7 @@
   {
     "id": "w:idiot",
     "word": "idiot",
-    "meaning": "백치, 바보, 등신, 멍청이, 천치",
+    "meaning": "바보; 어리석은 사람",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4394,7 +4394,7 @@
   {
     "id": "w:idle",
     "word": "idle",
-    "meaning": "게으르다",
+    "meaning": "일하지 않는; 게으른; 가동되지 않는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4406,7 +4406,7 @@
   {
     "id": "w:idol",
     "word": "idol",
-    "meaning": "우상; 우상, 아이돌; 아이돌",
+    "meaning": "우상; 아이돌",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4418,7 +4418,7 @@
   {
     "id": "w:ignite",
     "word": "ignite",
-    "meaning": "불을 지르다, 점화하다",
+    "meaning": "불을 지르다; 점화하다",
     "level": 4,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -4442,7 +4442,7 @@
   {
     "id": "w:ignorant",
     "word": "ignorant",
-    "meaning": "무지하다, 무식하다, 무학하다, 배운 데 없다, 멍청하다",
+    "meaning": "무지한; 알지 못하는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4490,7 +4490,7 @@
   {
     "id": "w:illiterate",
     "word": "illiterate",
-    "meaning": "문맹; 글을 모르다, 문맹의",
+    "meaning": "글을 읽고 쓸 줄 모르는",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4502,7 +4502,7 @@
   {
     "id": "w:illness",
     "word": "illness",
-    "meaning": "질병, 병",
+    "meaning": "질병; 병",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4514,7 +4514,7 @@
   {
     "id": "w:illogical",
     "word": "illogical",
-    "meaning": "동우각마",
+    "meaning": "비논리적인; 이치에 맞지 않는",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4526,7 +4526,7 @@
   {
     "id": "w:illusion",
     "word": "illusion",
-    "meaning": "환상; 환각, 환상",
+    "meaning": "환상; 환각",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4538,7 +4538,7 @@
   {
     "id": "w:image",
     "word": "image",
-    "meaning": "심상; 화상; 인상, 이미지",
+    "meaning": "심상; 화상; 인상; 이미지",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4550,7 +4550,7 @@
   {
     "id": "w:imaginary",
     "word": "imaginary",
-    "meaning": "환상적, 가상적",
+    "meaning": "상상의; 가상의",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4598,7 +4598,7 @@
   {
     "id": "w:imitate",
     "word": "imitate",
-    "meaning": "흉내내다, 본뜨다",
+    "meaning": "흉내내다; 본뜨다",
     "level": 4,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -4610,7 +4610,7 @@
   {
     "id": "w:immaculate",
     "word": "immaculate",
-    "meaning": "원죄 없는",
+    "meaning": "흠잡을 데 없이 깨끗한; 완벽한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4622,7 +4622,7 @@
   {
     "id": "w:immature",
     "word": "immature",
-    "meaning": "미성숙하다; 유치하다",
+    "meaning": "미성숙한; 유치한",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4634,7 +4634,7 @@
   {
     "id": "w:immediate",
     "word": "immediate",
-    "meaning": "즉시",
+    "meaning": "즉각적인; 바로 가까운",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4646,7 +4646,7 @@
   {
     "id": "w:immediately",
     "word": "immediately",
-    "meaning": "즉시, 곧",
+    "meaning": "즉시; 곧",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4670,7 +4670,7 @@
   {
     "id": "w:immigrant",
     "word": "immigrant",
-    "meaning": "이민, 이민자, 이주자",
+    "meaning": "이민; 이민자; 이주자",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4682,7 +4682,7 @@
   {
     "id": "w:immigration",
     "word": "immigration",
-    "meaning": "이주, 이민",
+    "meaning": "이주; 이민",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4694,7 +4694,7 @@
   {
     "id": "w:imminent",
     "word": "imminent",
-    "meaning": "절박한, 절박하다",
+    "meaning": "임박한; 곧 일어날",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4706,7 +4706,7 @@
   {
     "id": "w:immoral",
     "word": "immoral",
-    "meaning": "부도덕하다, 비도덕적",
+    "meaning": "부도덕한",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4718,7 +4718,7 @@
   {
     "id": "w:immortal",
     "word": "immortal",
-    "meaning": "불사하다",
+    "meaning": "불멸의; 죽지 않는",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4730,7 +4730,7 @@
   {
     "id": "w:immortality",
     "word": "immortality",
-    "meaning": "불사신",
+    "meaning": "불멸; 영원한 생명",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4754,7 +4754,7 @@
   {
     "id": "w:imperative",
     "word": "imperative",
-    "meaning": "긴요한, 반드 필요한",
+    "meaning": "반드시 필요한; 명령법의",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4778,7 +4778,7 @@
   {
     "id": "w:implement",
     "word": "implement",
-    "meaning": "도구",
+    "meaning": "시행하다; 실행하다; 도구",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4802,7 +4802,7 @@
   {
     "id": "w:important",
     "word": "important",
-    "meaning": "중요하다",
+    "meaning": "중요한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4814,7 +4814,7 @@
   {
     "id": "w:impossible",
     "word": "impossible",
-    "meaning": "불가능하다",
+    "meaning": "불가능한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4838,7 +4838,7 @@
   {
     "id": "w:impressed",
     "word": "impressed",
-    "meaning": "반한, 인상적인",
+    "meaning": "감명받은; 깊은 인상을 받은",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4862,7 +4862,7 @@
   {
     "id": "w:impressive",
     "word": "impressive",
-    "meaning": "인상적",
+    "meaning": "인상적인; 감탄을 자아내는",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4886,7 +4886,7 @@
   {
     "id": "w:imprisonment",
     "word": "imprisonment",
-    "meaning": "투옥, 도형",
+    "meaning": "투옥; 도형",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4922,7 +4922,7 @@
   {
     "id": "w:impulse",
     "word": "impulse",
-    "meaning": "충격량, 역적",
+    "meaning": "충동; 자극; 충격량",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -4946,7 +4946,7 @@
   {
     "id": "w:impure",
     "word": "impure",
-    "meaning": "불결하다",
+    "meaning": "불순한; 불순물이 섞인",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -4958,7 +4958,7 @@
   {
     "id": "w:inadequate",
     "word": "inadequate",
-    "meaning": "부족하다, 부적절하다",
+    "meaning": "불충분한; 부적절한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5030,7 +5030,7 @@
   {
     "id": "w:incidentally",
     "word": "incidentally",
-    "meaning": "우연히",
+    "meaning": "그런데; 덧붙여 말하면; 우연히",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5042,7 +5042,7 @@
   {
     "id": "w:income",
     "word": "income",
-    "meaning": "소득, 수입",
+    "meaning": "소득; 수입",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5066,7 +5066,7 @@
   {
     "id": "w:inconvenient",
     "word": "inconvenient",
-    "meaning": "불편하다",
+    "meaning": "불편한",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5078,7 +5078,7 @@
   {
     "id": "w:incorrect",
     "word": "incorrect",
-    "meaning": "그른, 잘못된",
+    "meaning": "그른; 잘못된",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5102,7 +5102,7 @@
   {
     "id": "w:incurable",
     "word": "incurable",
-    "meaning": "불치의, 치유할 수 없다",
+    "meaning": "치료할 수 없는; 불치의",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5114,7 +5114,7 @@
   {
     "id": "w:indeed",
     "word": "indeed",
-    "meaning": "역시",
+    "meaning": "정말로; 참으로; 실제로",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5138,7 +5138,7 @@
   {
     "id": "w:independent",
     "word": "independent",
-    "meaning": "독립의, 독립적인; 무소속",
+    "meaning": "독립의; 독립적인; 무소속",
     "level": 2,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5150,7 +5150,7 @@
   {
     "id": "w:independently",
     "word": "independently",
-    "meaning": "독립하여, 자주적으로",
+    "meaning": "독립하여; 자주적으로",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5186,7 +5186,7 @@
   {
     "id": "w:indication",
     "word": "indication",
-    "meaning": "부호",
+    "meaning": "징후; 표시; 암시",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5198,7 +5198,7 @@
   {
     "id": "w:indicator",
     "word": "indicator",
-    "meaning": "인디케이터, 지시약; 방향 지시등, 깜빡이",
+    "meaning": "지표; 표시기; 지시약",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5246,7 +5246,7 @@
   {
     "id": "w:indifferent",
     "word": "indifferent",
-    "meaning": "무관심하다",
+    "meaning": "무관심한",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5270,7 +5270,7 @@
   {
     "id": "w:individual",
     "word": "individual",
-    "meaning": "개인, 개체, 사인; 개인",
+    "meaning": "개인; 개체; 사인",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5282,7 +5282,7 @@
   {
     "id": "w:indulgence",
     "word": "indulgence",
-    "meaning": "면벌",
+    "meaning": "탐닉; 지나친 허용; 관대함",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5294,7 +5294,7 @@
   {
     "id": "w:industry",
     "word": "industry",
-    "meaning": "근면; 산업; 공업, 산업",
+    "meaning": "근면; 산업; 공업",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5318,7 +5318,7 @@
   {
     "id": "w:inexplicable",
     "word": "inexplicable",
-    "meaning": "불가해하다, 설명할 수 없다",
+    "meaning": "설명할 수 없는; 이해하기 어려운",
     "level": 4,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5342,7 +5342,7 @@
   {
     "id": "w:infant",
     "word": "infant",
-    "meaning": "유아, 젖먹이, 아기",
+    "meaning": "유아; 젖먹이; 아기",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5366,7 +5366,7 @@
   {
     "id": "w:infatuation",
     "word": "infatuation",
-    "meaning": "열병",
+    "meaning": "홀딱 반함; 일시적인 열중",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5378,7 +5378,7 @@
   {
     "id": "w:infection",
     "word": "infection",
-    "meaning": "감염, 전염; 감염",
+    "meaning": "감염; 전염",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5414,7 +5414,7 @@
   {
     "id": "w:infinite",
     "word": "infinite",
-    "meaning": "무한",
+    "meaning": "무한한",
     "level": 3,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5450,7 +5450,7 @@
   {
     "id": "w:inflation",
     "word": "inflation",
-    "meaning": "인플레이션, 인플레, 통화 팽창; 팽창",
+    "meaning": "인플레이션; 인플레; 통화 팽창; 팽창",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5462,7 +5462,7 @@
   {
     "id": "w:influence",
     "word": "influence",
-    "meaning": "영향력, 영향; 영향; 영향을 미치다",
+    "meaning": "영향력; 영향; 영향을 미치다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5474,7 +5474,7 @@
   {
     "id": "w:inform",
     "word": "inform",
-    "meaning": "알리다, 전달하다, 통지하다, 가르치다; 알리다",
+    "meaning": "알리다; 전달하다; 통지하다; 가르치다",
     "level": 2,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -5486,7 +5486,7 @@
   {
     "id": "w:information",
     "word": "information",
-    "meaning": "안내, 정보",
+    "meaning": "안내; 정보",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5510,7 +5510,7 @@
   {
     "id": "w:infrastructure",
     "word": "infrastructure",
-    "meaning": "기반시설, 기간시설, 인프라스트럭처, 인프라; 기반시설, 인프라스트럭처, 인프라",
+    "meaning": "기반시설; 기간시설; 인프라스트럭처; 인프라",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5546,7 +5546,7 @@
   {
     "id": "w:inhale",
     "word": "inhale",
-    "meaning": "흡입하다, 빨아들이다",
+    "meaning": "흡입하다; 빨아들이다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -5594,7 +5594,7 @@
   {
     "id": "w:initial",
     "word": "initial",
-    "meaning": "두문자; 성모, 초성, 첫소리",
+    "meaning": "처음의; 초기의; 이름의 첫 글자",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5618,7 +5618,7 @@
   {
     "id": "w:initiative",
     "word": "initiative",
-    "meaning": "진취력, 진취성",
+    "meaning": "주도권; 솔선; 새로운 계획",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5654,7 +5654,7 @@
   {
     "id": "w:injury",
     "word": "injury",
-    "meaning": "상해, 부상",
+    "meaning": "상해; 부상",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5666,7 +5666,7 @@
   {
     "id": "w:injustice",
     "word": "injustice",
-    "meaning": "부정, 불공평, 부당, 불의",
+    "meaning": "부정; 불공평; 부당; 불의",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5678,7 +5678,7 @@
   {
     "id": "w:ink",
     "word": "ink",
-    "meaning": "먹물, 잉크",
+    "meaning": "먹물; 잉크",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5690,7 +5690,7 @@
   {
     "id": "w:inn",
     "word": "inn",
-    "meaning": "여관, 주막",
+    "meaning": "여관; 주막",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5702,7 +5702,7 @@
   {
     "id": "w:innocence",
     "word": "innocence",
-    "meaning": "결백, 무죄; 무사기; 무해, 무독",
+    "meaning": "무죄; 결백; 순수함",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5714,7 +5714,7 @@
   {
     "id": "w:innocent",
     "word": "innocent",
-    "meaning": "순진하다; 무죄인",
+    "meaning": "무죄인; 순진한",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5738,7 +5738,7 @@
   {
     "id": "w:input",
     "word": "input",
-    "meaning": "입력, 투입; 입력하다",
+    "meaning": "입력; 투입; 입력하다",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5750,7 +5750,7 @@
   {
     "id": "w:inquiry",
     "word": "inquiry",
-    "meaning": "질문, 문의, 조사, 탐구",
+    "meaning": "질문; 문의; 조사; 탐구",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5762,7 +5762,7 @@
   {
     "id": "w:insane",
     "word": "insane",
-    "meaning": "제정신이 아니다",
+    "meaning": "제정신이 아닌; 터무니없는",
     "level": 1,
     "category": "성질과 관계",
     "source": "koreader-en-ko-v1.2.0",
@@ -5774,7 +5774,7 @@
   {
     "id": "w:insanity",
     "word": "insanity",
-    "meaning": "광기, 심신상실",
+    "meaning": "광기; 심신상실",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5786,7 +5786,7 @@
   {
     "id": "w:insect",
     "word": "insect",
-    "meaning": "곤충; 버러지, 벌레",
+    "meaning": "곤충; 버러지; 벌레",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5798,7 +5798,7 @@
   {
     "id": "w:insert",
     "word": "insert",
-    "meaning": "삽입하다, 넣다",
+    "meaning": "삽입하다; 넣다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -5810,7 +5810,7 @@
   {
     "id": "w:inside",
     "word": "inside",
-    "meaning": "안, 내부; […]안에, […]에",
+    "meaning": "안; 내부; ~안에",
     "level": 1,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5822,7 +5822,7 @@
   {
     "id": "w:insider",
     "word": "insider",
-    "meaning": "내부자, 인사이더",
+    "meaning": "내부자; 인사이더",
     "level": 4,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5894,7 +5894,7 @@
   {
     "id": "w:inspiration",
     "word": "inspiration",
-    "meaning": "흡입, 들이쉬기; 숨; 영감",
+    "meaning": "영감; 고무; 들숨",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5906,7 +5906,7 @@
   {
     "id": "w:install",
     "word": "install",
-    "meaning": "설치하다, 깔다",
+    "meaning": "설치하다; 깔다",
     "level": 3,
     "category": "행동과 과정",
     "source": "koreader-en-ko-v1.2.0",
@@ -5954,7 +5954,7 @@
   {
     "id": "w:institute",
     "word": "institute",
-    "meaning": "학원",
+    "meaning": "연구소; 기관; 도입하다",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5966,7 +5966,7 @@
   {
     "id": "w:institution",
     "word": "institution",
-    "meaning": "제도",
+    "meaning": "기관; 제도",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5978,7 +5978,7 @@
   {
     "id": "w:instructor",
     "word": "instructor",
-    "meaning": "강사, 교사",
+    "meaning": "강사; 교사",
     "level": 3,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
@@ -5990,7 +5990,7 @@
   {
     "id": "w:instrument",
     "word": "instrument",
-    "meaning": "계기; 증서; 앞잡이",
+    "meaning": "도구; 악기; 계기",
     "level": 2,
     "category": "일반 독해",
     "source": "koreader-en-ko-v1.2.0",
